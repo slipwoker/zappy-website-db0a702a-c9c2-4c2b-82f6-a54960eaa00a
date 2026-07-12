@@ -1,0 +1,108 @@
+# Like store — Generative Engine Optimization Map
+
+> צור לי אתר
+
+---
+
+## Pages
+
+### בית
+https://like-store-db0a702a.zappy5.app
+מחפשים אתרים מומלצים בסגנון Fashion Nova? ב-Like store תגלו עולם של מותגים אלטרנטיביים, השוואות חכמות ומבצעים שווים. היכנסו עכשיו וגלו את הפריט הבא שלכם!
+
+### למה Like
+https://like-store-db0a702a.zappy5.app/why-like
+הסוד מאחורי המותגים האלטרנטיביים נחשף: איכות, סטייל ומחירים שמנצחים כל אתר אחר. הצטרפו למהפכת הקניות החכמה עם Like store וגלו למה זה עובד.
+
+### יוצרים
+https://like-store-db0a702a.zappy5.app/creators
+הכירו את הקהילה שמאחורי המותגים האהובים: יוצרים, מעצבים ומשפיענים שמובילים את הטרנדים. גלו את הסיפורים, ההשראות והקולקציות החדשות רק ב-Like store.
+
+### אודות
+https://like-store-db0a702a.zappy5.app/about
+המסע שלנו התחיל מאהבה לסטייל נגיש: איך הפכנו למקור המוביל לגילוי מותגים כמו Fashion Nova. הכירו את החזון, הצוות והתשוקה שמניעה אותנו.
+
+### צור קשר
+https://like-store-db0a702a.zappy5.app/contact
+צריכים עזרה במציאת אתרים דומים ל-Shein? רוצים להמליץ על מותג חדש? אנחנו כאן לכל שאלה, הצעה או שיתוף פעולה. השאירו פרטים ונדאג לחזור במהירות.
+
+### Products
+https://like-store-db0a702a.zappy5.app/products
+המוצרים שלנו - Like store
+
+### Cart
+https://like-store-db0a702a.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://like-store-db0a702a.zappy5.app/checkout
+תשלום
+
+### Login
+https://like-store-db0a702a.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://like-store-db0a702a.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://like-store-db0a702a.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://like-store-db0a702a.zappy5.app/product/:slug
+פרטי המוצר - Like store
+
+### Category
+https://like-store-db0a702a.zappy5.app/category/:slug
+מוצרים - Like store
+
+### תודה שפניתם אלינו
+https://like-store-db0a702a.zappy5.app/thank-you
+Like store - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://like-store-db0a702a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://like-store-db0a702a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://like-store-db0a702a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Like store
+צור לי אתר
+
+## Target Audience
+- קונים מקוונים
+- משפיענים ברשתות חברתיות
+- מקצוענים צעירים עירוניים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://like-store-db0a702a.zappy5.app/sitemap.xml
+- Robots: https://like-store-db0a702a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://like-store-db0a702a.zappy5.app/llms-full.txt
+- Products (JSON): https://like-store-db0a702a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://like-store-db0a702a.zappy5.app/product-feed.xml
