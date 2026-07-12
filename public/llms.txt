@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://like-store-db0a702a.zappy5.app
+https://example.com
 מחפשים אתרים מומלצים בסגנון Fashion Nova? ב-Like store תגלו עולם של מותגים אלטרנטיביים, השוואות חכמות ומבצעים שווים. היכנסו עכשיו וגלו את הפריט הבא שלכם!
 
 ### למה Like
-https://like-store-db0a702a.zappy5.app/why-like
+https://example.com/why-like
 הסוד מאחורי המותגים האלטרנטיביים נחשף: איכות, סטייל ומחירים שמנצחים כל אתר אחר. הצטרפו למהפכת הקניות החכמה עם Like store וגלו למה זה עובד.
 
 ### יוצרים
-https://like-store-db0a702a.zappy5.app/creators
+https://example.com/creators
 הכירו את הקהילה שמאחורי המותגים האהובים: יוצרים, מעצבים ומשפיענים שמובילים את הטרנדים. גלו את הסיפורים, ההשראות והקולקציות החדשות רק ב-Like store.
 
 ### אודות
-https://like-store-db0a702a.zappy5.app/about
+https://example.com/about
 המסע שלנו התחיל מאהבה לסטייל נגיש: איך הפכנו למקור המוביל לגילוי מותגים כמו Fashion Nova. הכירו את החזון, הצוות והתשוקה שמניעה אותנו.
 
 ### צור קשר
-https://like-store-db0a702a.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה במציאת אתרים דומים ל-Shein? רוצים להמליץ על מותג חדש? אנחנו כאן לכל שאלה, הצעה או שיתוף פעולה. השאירו פרטים ונדאג לחזור במהירות.
 
 ### Products
-https://like-store-db0a702a.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Like store
 
 ### Cart
-https://like-store-db0a702a.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://like-store-db0a702a.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://like-store-db0a702a.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://like-store-db0a702a.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://like-store-db0a702a.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://like-store-db0a702a.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Like store
 
 ### Category
-https://like-store-db0a702a.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Like store
 
 ### תודה שפניתם אלינו
-https://like-store-db0a702a.zappy5.app/thank-you
+https://example.com/thank-you
 Like store - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://like-store-db0a702a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://like-store-db0a702a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://like-store-db0a702a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://like-store-db0a702a.zappy5.app/sitemap.xml
-- Robots: https://like-store-db0a702a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://like-store-db0a702a.zappy5.app/llms-full.txt
-- Products (JSON): https://like-store-db0a702a.zappy5.app/products.json
-- Products (Google Merchant RSS): https://like-store-db0a702a.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
